@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 #api key
 config.py
+ __pycache__/config.cpython-312.pyc
