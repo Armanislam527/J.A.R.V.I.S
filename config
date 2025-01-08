@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:Armanislam527/J.A.R.V.I.S.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
